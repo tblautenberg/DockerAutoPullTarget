@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("This is a test message for Docker Auto Pull Target!");
+        System.out.println("Hvis det her virker ER VI FKIN DONE!!!!");
     }
 }
